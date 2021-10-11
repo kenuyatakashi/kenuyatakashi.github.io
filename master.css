@@ -70,10 +70,10 @@
     color: #696969;
   }
   html{
-    font-size: 70%;
+    font-size: 66%;
   }
   .main-nav li {
-    margin-left: 12px;
+    margin-left: 10px;
   }
 }
 
@@ -104,13 +104,13 @@ img {
 
 .main-nav {
   display: flex;
-  font-size: 1.25rem;px;
+  font-size: 1.23rem;px;
   text-transform: uppercase;
   margin-top: 34px;
   list-style: none;
 }
 .main-nav li {
-  margin-left: 36px;
+  margin-left: 35px;
 }
 .main-nav a{
   color:  #000000;
