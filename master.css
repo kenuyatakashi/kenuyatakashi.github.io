@@ -5,6 +5,9 @@
   .page-title {
     font-size: 2rem;
   }
+  big-bg{
+  width: 100%;
+  }
   .page-header {
     font-size: 2rem;
     flex-direction: column;
