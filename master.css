@@ -72,6 +72,9 @@
   html{
     font-size: 50%;
   }
+  .main-nav li {
+  margin-left: 15px;
+  }
 }
 
 }
