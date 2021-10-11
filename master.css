@@ -6,12 +6,12 @@
     font-size: 2.5rem;
   }
   .page-header {
-    flex-direction: colum;
+    flex-direction: column;
     align-items: center;
   }
   /* BOOKS */
   .books-contents{
-    flex-direction: colum;
+    flex-direction: column;
   }
   article,
   aside {
