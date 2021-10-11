@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* モバイル版
 ---------------------*/
-@@media (max-width: 600px) {
+@media (max-width: 600px) {
   .page-title {
     font-size: 2.5rem;
   }
@@ -17,7 +17,7 @@
   aside {
     width: 100%;
   }
-  #news .page-title {
+  #books .page-title {
     margin-top: 30px;
   }
   aside {
