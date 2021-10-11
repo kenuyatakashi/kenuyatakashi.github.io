@@ -173,12 +173,12 @@ img {
 /* フッター
 ---------------- */
 footer {
-  background: 616161;
+  background: #ffffff;
   text-align: center;
   padding: 26px 0;
 }
 footer p{
-  color: #fff;
+  color: #black;
   font-size: 0.875rem;
 }
 /* 記事部分 */
