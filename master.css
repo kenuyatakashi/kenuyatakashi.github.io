@@ -3,7 +3,7 @@
 ---------------------*/
 @media (max-width: 600px) {
   .page-title {
-    font-size: 2rem;
+    font-size: 1rem;
   }
   big-bg{
     width: 100%;
@@ -73,7 +73,7 @@
     font-size: 66%;
   }
   .main-nav li {
-    margin-left: 10px;
+    margin-left: 5px;
   }
 }
 
