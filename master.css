@@ -6,7 +6,7 @@
     font-size: 2rem;
   }
   big-bg{
-  width: 100%;
+    width: 100%;
   }
   .page-header {
     font-size: 2rem;
@@ -65,9 +65,12 @@
 
 /*　共通部分
 ---------------------*/
-@@media (max-width: 600px) {
+@media (max-width: 600px) {
   h1 {
     color: #696969;
+  }
+  html{
+    font-size: 50%;
   }
 }
 
