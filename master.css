@@ -3,10 +3,10 @@
 ---------------------*/
 @media (max-width: 600px) {
   .page-title {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
   .page-header {
-    font-size: 2.5rem;
+    font-size: 2rem;
     flex-direction: column;
     align-items: center;
   }
@@ -19,17 +19,17 @@
     width: 100%;
   }
   #books .page-title {
-    margin-top: 30px;
+    margin-top: 25px;
   }
   aside {
-    margin-top: 60px;
+    margin-top: 55px;
   }
   .post-info {
-    margin-bottom: 30px;
+    margin-bottom: 25px;
   }
   .post-date {
-    width: 70px;
-    height: 70px;
+    width: 65px;
+    height: 65px;
     font-size: 1rem;
   }
   .post-date span {
