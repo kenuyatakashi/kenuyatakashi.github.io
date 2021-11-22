@@ -101,9 +101,8 @@ body {
   position: fixed; /*ボックスの配置方法(fixedは固定配置)*/
   left: 20px; /*左からの距離(positionで指定している場合に適用)*/
   top: 200px; /*上からの距離(positionで指定している場合に適用)*/
-	font-family: 'Berkshire Swash', cursive;
-	font-family: 'Ceviche One', cursive;
-	font-family: 'Sonsie One', cursive; /*Webフォントの種類指定*/
+  font-family: "メイリオ", Meiryo, "ＭＳ Ｐゴシック", Osaka,
+    "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro";
   font-size: 25px; /* フォントサイズ指定(emはフォントの高さを１とした相対指定)*/
   text-align: center; /*行の水平方向の揃え方(centerは中央揃え)*/
   text-transform: uppercase; /*大文字と小文字の変換を指定するプロパティ(uppercaseは全ての文字を大文字に変換)*/
@@ -111,22 +110,4 @@ body {
 
 .sidemenu li a {
   color: #000; /*文字色指定*/
-}
-
-.sidemenu li a:hover {
-  text-decoration: none; /*テキストの装飾指定(下線、上線など)(noneはなし)*/
-  color: #999; /*文字色指定*/
-  cursor: pointer; /*マウスカーソルの形状を指定(pointerはリンクカーソル)*/
-}
-
-.active {
-  color: #999 !important; /*文字色指定*/
-}
-
-.copyright {
-  position: fixed; /*ボックスの配置方法(fixedは固定配置)*/
-  left: 20px; /*左からの距離(positionで指定している場合に適用)*/
-  bottom: 10px; /*下からの距離(positionで指定している場合に適用)*/
-  color: #000; /*文字色指定*/
-  font-size: 0.9em; /*フォントサイズ指定(emはフォントの高さを１とした相対指定)*/
 }
