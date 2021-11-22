@@ -1,8 +1,5 @@
 @charset "UTF-8";
 
-@media screen and (max-width: 480px)　
-{
-
 /* ----- css reset(各ブラウザで指定されているスタイルを初期化)と全体設定 ----- */
 
 body,
@@ -131,5 +128,4 @@ body {
   bottom: 10px; /*下からの距離(positionで指定している場合に適用)*/
   color: #000; /*文字色指定*/
   font-size: 0.9em; /*フォントサイズ指定(emはフォントの高さを１とした相対指定)*/
-}
 }
