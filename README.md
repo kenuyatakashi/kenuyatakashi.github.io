@@ -1,1 +1,0 @@
-# kenuyatakashi.github.io
