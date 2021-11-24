@@ -74,13 +74,13 @@ header h1 {
 article {
     width: 800px; /*幅指定(100%は画面横幅いっぱいに表示)*/
     margin: 100px auto; /*ボックス外側の余白*/
-    line-height: 80px;
+    line-height: 50px;
 }
 
 article h2 {
     margin-bottom: 30px; /*ボックス外側下の余白*/
     font-weight: normal; /*フォントの太さ指定(normalは標準)*/
-    font-size: 4em; /*フォントサイズ指定(emはフォントの高さを１とした相対指定)*/
+    font-size: 5em; /*フォントサイズ指定(emはフォントの高さを１とした相対指定)*/
     font-family: 'Berkshire Swash', cursive;
     font-family: 'Ceviche One', cursive; /*フォントの種類指定(左から優先順位)*/
     text-align: center; /*行の水平方向の揃え方(centerは中央揃え)*/
@@ -88,7 +88,7 @@ article h2 {
 
 article li {
     font-size: 2.5em; /*フォントサイズ指定(emはフォントの高さを１とした相対指定)*/
-    line-height: 50px; /*行の高さ指定(数値のみの場合はfont-sizeの倍数)*/
+    line-height: 75px; /*行の高さ指定(数値のみの場合はfont-sizeの倍数)*/
 }
 
 article a {
